@@ -8,7 +8,9 @@ h1 {
 p {
     color: purple;
 }
+caption {
+	caption-side: bottom
+}
 table {
-	border-collapse: seperate;
-	border-spacing: 20px 40px;
+	border-spacing: 150px 10px;
 }
