@@ -1,0 +1,14 @@
+
+body {
+    background-color: powderblue;
+}
+h1 {
+    color: yellow;
+}
+p {
+    color: purple;
+}
+table {
+	border-collapse: seperate;
+	border-spacing: 20px 40px;
+}
